@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello! My name is Rebecca, and I am a first-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in Natural Language Processing, specifically on low-research and code-switching datasets. In addition to my technical interests, I am passionate about writing, dancing flamenco, and collecting earrings!
 
 [Link to another page](./another-page.html).
 
