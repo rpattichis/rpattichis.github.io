@@ -4,7 +4,7 @@ layout: default
 
 ### Large image
 
-![Branching](./imgs/headshot.jpg)
+![Headshot](./imgs/headshot.png)
 
 Hello! My name is Rebecca, and I am a first-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on low-resource languages and code-switching datasets with Prof. Peng's Plus Lab, as well as Prof. Caccoulos at Penn State. More broadly, I am interested in ethically preserving languages and the cultural relevance they hold for historically marginaized communities. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
 
