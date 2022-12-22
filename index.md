@@ -2,6 +2,10 @@
 layout: default
 ---
 
+### Large image
+
+![Branching](./imgs/headshot.jpg)
+
 Hello! My name is Rebecca, and I am a first-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on low-resource languages and code-switching datasets with Prof. Peng's Plus Lab, as well as Prof. Caccoulos at Penn State. More broadly, I am interested in ethically preserving languages and the cultural relevance they hold for historically marginaized communities. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
 
 [Link to another page](./another-page.html).
@@ -95,10 +99,6 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
