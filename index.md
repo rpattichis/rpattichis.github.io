@@ -4,17 +4,21 @@ layout: default
 
 ![Headshot](./imgs/HEADSHOT.jpg)
 
-Hello! My name is Rebecca, and I am a first-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on low-resource languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Caccoulos](https://sip.la.psu.edu/people/rct11/) at Penn State. I received my B.S. with Honors at Stanford University, where I studied Artificial Intelligence.
+Hello! My name is Rebecca, and I am a first-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on low-resource languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Caccoulos](https://sip.la.psu.edu/people/rct11/) at Penn State. I received my B.S. with Honors at Stanford University, where I wrote my thesis under the advisement of Prof. Christopher Manning.
 
 More broadly, I am interested in ethically preserving languages and the cultural relevance they hold for historically marginalized communities. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
 
-[Link to another page](./another-page.html).
+# Research
 
-There should be whitespace between paragraphs.
+## Pre-Prints
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Honors Thesis
 
-# Header 1
+## Final Class Projects
+
+Thesis, AJ pre-print, etc
+
+# Awards and Fellowships
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
