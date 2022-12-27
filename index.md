@@ -42,7 +42,7 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 
 ## 2020
 
-* Stanford VPUE STEM Fellow
+* [Stanford VPUE STEM Fellow](https://undergradresearch.stanford.edu/student-spotlight/stem-fellows)
 
 ## 2019
 
