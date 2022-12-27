@@ -29,7 +29,24 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 
 # Awards and Fellowships
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 2022
+
+* DeepMind Fellow at UCLA
+* Cecilia and Tony Burciaga Community Development Award
+* Class of 2022 Stanford Award of Excellence
+
+## 2021
+
+* Cadence's Latinx Students in Technology Scholarship
+* Google CS Research Mentorship Program (2021b)
+
+## 2020
+
+* Stanford VPUE STEM Fellow
+
+## 2019
+
+* Advancing Women in Technology
 
 # Hobbies
 
