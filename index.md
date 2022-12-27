@@ -10,7 +10,7 @@ More broadly, I am interested in ethically preserving languages and the cultural
 
 # Research
 
-## Pre-Prints
+## Papers
 
 Pattichis, R. (2023). Centering the Voices of First-Generation Immigrant Youth: Multilingual NLP Methods in the Translanguaging Context. Stanford Digital Repository. Available at <https://purl.stanford.edu/nd602zq5759>
 <details markdown="1">
