@@ -1,5 +1,10 @@
 ---
 ---
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
 
 @import 'jekyll-theme-cayman';
 
