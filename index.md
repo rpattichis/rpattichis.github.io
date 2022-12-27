@@ -31,10 +31,11 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 
 ### UCLA
   1. CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repition Evaluation"
+
 ### Stanford
-  1. CS 224N - NLP with Deep Learning: "RobustQA Using Data Augmentation"
+  2. CS 224N - NLP with Deep Learning: "RobustQA Using Data Augmentation"
   2. CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks"
-  3. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks"
+  2. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks"
 
 # Awards and Fellowships
 
