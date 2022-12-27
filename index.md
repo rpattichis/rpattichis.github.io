@@ -1,6 +1,6 @@
-# Rebecca Pattichis
-|[Resume](https://github.com/)|[LinkedIn](https://linkedin.com/in/rebecca-pattichis)|[Github](https://github.com/rpattichis)|
-|---|---|---|
+---
+layout: default
+---
 
 <img src="./imgs/HEADSHOT.jpg" alt="Headshot" style="width:200px">
 
