@@ -25,7 +25,7 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 ### Stanford
   2. CS 224N - NLP with Deep Learning: ["RobustQA Using Data Augmentation"](https://www.semanticscholar.org/paper/RobustQA-Using-Data-Augmentation-Rebecca-Pattichis/8e4d7d60307047b45197c7c434576a0af09516bf)
   2. CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks"
-  2. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" _([_code_](https://github.com/rpattichis/CS129_project))_
+  2. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" _([code](https://github.com/rpattichis/CS129_project))_
 
 # Awards and Fellowships
 
