@@ -20,12 +20,12 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 ## Final Class Projects
 
 ### UCLA
-  1. CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repition Evaluation"
+  1. CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repition Evaluation" ([code](https://github.com/rpattichis/lyric-generation))
 
 ### Stanford
   2. CS 224N - NLP with Deep Learning: ["RobustQA Using Data Augmentation"](https://www.semanticscholar.org/paper/RobustQA-Using-Data-Augmentation-Rebecca-Pattichis/8e4d7d60307047b45197c7c434576a0af09516bf)
   2. CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks"
-  2. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks"
+  2. CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" ([code](https://github.com/rpattichis/CS129_project))
 
 # Awards and Fellowships
 
