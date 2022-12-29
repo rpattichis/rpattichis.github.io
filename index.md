@@ -31,12 +31,12 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 
 * DeepMind Fellow at UCLA (2022)
 * Class of 2022 Stanford Award of Excellence
-* Cecilia and Tony Burciaga Community Development Award, Stanford's El Centro Chicano y Latino
+* Cecilia and Tony Burciaga Community Development Award, Stanford's El Centro Chicano y Latino (2022)
 * Stanford's Department of Theater and Performance Studies Award for Contribution to Dance (2022)
-* [Cadence's Latinx Students in Technology Scholarship](https://newsdirect.com/news/meet-the-2021-winners-of-cadences-latinx-students-in-technology-scholarship-154120563)
+* [Cadence's Latinx Students in Technology Scholarship](https://newsdirect.com/news/meet-the-2021-winners-of-cadences-latinx-students-in-technology-scholarship-154120563) (2021)
 * Google CS Research Mentorship Program (2021b)
-* [Stanford VPUE STEM Fellow](https://undergradresearch.stanford.edu/student-spotlight/stem-fellows)
-* Advancing Women in Technology
+* [Stanford VPUE STEM Fellow](https://undergradresearch.stanford.edu/student-spotlight/stem-fellows) (2020)
+* Advancing Women in Technology (2019)
 
 # Hobbies
 
