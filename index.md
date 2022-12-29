@@ -29,125 +29,16 @@ Alvero, A., **Pattichis, R.**, (2022) “Linguistic and Cultural Strategies: Ide
 
 # Awards and Fellowships
 
-## 2022
-
-* DeepMind Fellow at UCLA
-* Cecilia and Tony Burciaga Community Development Award
+* DeepMind Fellow at UCLA (2022)
 * Class of 2022 Stanford Award of Excellence
-
-## 2021
-
-* Cadence's Latinx Students in Technology Scholarship
+* Cecilia and Tony Burciaga Community Development Award, Stanford's El Centro Chicano y Latino
+* Stanford's Department of Theater and Performance Studies Award for Contribution to Dance (2022)
+* [Cadence's Latinx Students in Technology Scholarship](https://newsdirect.com/news/meet-the-2021-winners-of-cadences-latinx-students-in-technology-scholarship-154120563)
 * Google CS Research Mentorship Program (2021b)
-
-## 2020
-
 * [Stanford VPUE STEM Fellow](https://undergradresearch.stanford.edu/student-spotlight/stem-fellows)
-
-## 2019
-
 * Advancing Women in Technology
 
 # Hobbies
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+While at Stanford, I danced with [Aleta Hayes'](https://www.aletahayes.com/about) Chocolate Heads company!
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
