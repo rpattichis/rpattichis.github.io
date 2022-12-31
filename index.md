@@ -40,5 +40,8 @@ Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Id
 
 # Hobbies
 
-While at Stanford, I danced with [Aleta Hayes'](https://www.aletahayes.com/about) Chocolate Heads company!
+While at Stanford, I danced with [Aleta Hayes'](https://www.aletahayes.com/about) Chocolate Heads company! Check out our performances below:
 
+* ["Fasion Fable"](https://vimeo.com/742072113). 2022, Stanford's Cantor Museum
+* ["Riot of Spring"](https://vimeo.com/579947905), 2021, Zoom
+* ["Traveling in Place"](https://vimeo.com/580049177), 2020, Zoom
