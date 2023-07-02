@@ -12,9 +12,9 @@ More broadly, I am interested in ethically preserving languages and the cultural
 
 ## Publications
 
-**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July 10). _Aligning Code-Switching Metrics with Bilingual Behavior_ [Conference Presentation]. Association for Computational Linguistics Student Research Conference 2023, Toronto, Ontario, CA.
+**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July 10). _Aligning Code-Switching Metrics with Bilingual Behavior._ [Conference Presentation]. Association for Computational Linguistics Student Research Conference 2023, Toronto, Ontario, CA.
 
-Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Identification and Analysis of Spanish Language Usage in College Admissions Essays”
+Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Identification and Analysis of Spanish Language Usage in College Admissions Essays”.
 (Under review) [_Preprint_](https://osf.io/preprints/socarxiv/wmsre/)
 
 **Pattichis, R.** (2022). Centering the Voices of First-Generation Immigrant Youth: Multilingual NLP Methods in the Translanguaging Context. Stanford Digital Repository. Available at <https://purl.stanford.edu/nd602zq5759>
