@@ -10,7 +10,7 @@ More broadly, I am interested in ethically preserving languages and the cultural
 
 # Research
 
-## Papers
+## Publications
 
 **Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July 10). _Aligning Code-Switching Metrics with Bilingual Behavior_ [Conference Presentation]. Association for Computational Linguistics Student Research Conference 2023, Toronto, Ontario, CA.
 
