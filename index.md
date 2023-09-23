@@ -12,7 +12,7 @@ More broadly, I am interested in ethically preserving languages and the cultural
 
 ## Publications
 
-**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ ([_poster_](https://virtual2023.aclweb.org/paper_S25.html#poster))
+**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ [_(poster)_](https://virtual2023.aclweb.org/paper_S25.html#poster)
 <details>
   <summary>Abstract</summary>
   Models and metrics of linguistic code-switching (CS) have almost exclusively worked with word-level units. However, any two words are not equally likely CS points in bilingual speech. In addition, other-language single-word items and alternating-language multi-word items have distinct properties. Adapting these familiar metrics to the Intonation Unit (IU), we capture a shared tendency for CS to occur across rather than within prosodic boundaries. This constraint is distorted when single- and multi-word other-language items are merged. Individual differences according to language distribution and CS rates are independent, visualized in the number and breadth of language bands in transcripts of bilingual speech. These results are important to consider in future development of code-switched datasets for NLP tasks, as the IU token and exclusion/inclusion of single-word items highly impacts the CS represented in the input text.
