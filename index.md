@@ -6,20 +6,20 @@ layout: default
 
 Hello! My name is Rebecca, and I am a second-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on under-resourced languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Cacoullos](https://nmcode-switching.la.psu.edu/work-with-us/) at Penn State. I received my B.S. with Honors at Stanford University, where I wrote my thesis under the advisement of Prof. Christopher Manning.
 
-More broadly, I am interested in ethically preserving languages and the cultural relevance they hold for historically marginalized communities. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
+More broadly, I am interested in producing language technologies that aid in maintaing language practices. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
 
 # Research
 
 ## Publications
 
-**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ [_(poster)_](https://virtual2023.aclweb.org/paper_S25.html#poster)
+**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ _([poster)](https://virtual2023.aclweb.org/paper_S25.html#poster))_
 <details>
   <summary>Abstract</summary>
   Models and metrics of linguistic code-switching (CS) have almost exclusively worked with word-level units. However, any two words are not equally likely CS points in bilingual speech. In addition, other-language single-word items and alternating-language multi-word items have distinct properties. Adapting these familiar metrics to the Intonation Unit (IU), we capture a shared tendency for CS to occur across rather than within prosodic boundaries. This constraint is distorted when single- and multi-word other-language items are merged. Individual differences according to language distribution and CS rates are independent, visualized in the number and breadth of language bands in transcripts of bilingual speech. These results are important to consider in future development of code-switched datasets for NLP tasks, as the IU token and exclusion/inclusion of single-word items highly impacts the CS represented in the input text.
 </details>
 
 Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Identification and Analysis of Spanish Language Usage in College Admissions Essays”.
-(Under review) [_Preprint_](https://osf.io/preprints/socarxiv/wmsre/)
+(Under review) _([preprint](https://osf.io/preprints/socarxiv/wmsre/))_
 <details>
   <summary>Abstract</summary>
   In US K-12 education, the Spanish language is subject to practices and policies that limit its expression, especially among Latinx students. However, Spanish is seen as a positive form of diversity in higher education. In light of these contradictions, we examine the degree to which Spanish is strategically deployed in selective college admissions by high school students in their admissions essays. We use two years of undergraduate application essays (n = 276,768) and metadata submitted to the University of California by every self-identified Latinx applicant and a racially representative random sample of non-Latinx applicants. To identify Spanish language usage in the text, we develop a computational mixed methods approach by combining machine translation and human reading. Spanish was used by 33\% of Latinx and 15\% of non-Latinx students with stylistic variation by class and ethnicity. We also find that lower income Mexican and Central American applicants were the most likely to use substantive forms of Spanish in their admissions essays as well as provide translations into English. We posit this as an example of students identifying cultural mismatch between themselves and university admissions offices due to the perceived need of translating the Spanish words and phrases.
@@ -35,10 +35,14 @@ Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Id
 
 ### UCLA
   - CS269 - Fairness, Accountability, and Robustness in Natural Language Processing: "Towards the Equivalence Constraint: Evaluating Code-Switching Benchmarks on a Different Perspective" _([repo](https://github.com/rpattichis/cs-269))_
-  - CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repetition Evaluation" _([code](https://github.com/rpattichis/lyric-generation))_
+  - CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repetition Evaluation" _([repo](https://github.com/rpattichis/lyric-generation))_
 
 ### Stanford
   - CS 224N - NLP with Deep Learning: ["RobustQA Using Data Augmentation"](https://www.semanticscholar.org/paper/RobustQA-Using-Data-Augmentation-Rebecca-Pattichis/8e4d7d60307047b45197c7c434576a0af09516bf)
+    <details>
+      <summary>Abstract</summary>
+      This project aims to explore possible improvements and extensions to the RobustQA Default baseline provided by the CS224N Winter quarter staff. Our goal is to create a domain-agnostic question answering system given DistilBERT as a pre-trained transformer model. The main method attempted in this paper is that of Task Adaptive Fine Tuning (TAPT) [1], which entails a pre-training step utilizing the Masked Language Modeling task. This method was combined with experimentation on hyperparameters (batch size, number of epochs, and learning rate) to produce the highestachieving model. Specifically, a pre-trained MLM model with a batch size of 32 yielded an EM of 42.75 and F1 of 61.14, which are each around 2 points higher than the baseline metrics. 
+    </details>
   -  CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks"
   -  CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" _([code](https://github.com/rpattichis/CS129_project))_
 
