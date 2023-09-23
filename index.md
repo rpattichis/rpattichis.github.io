@@ -12,23 +12,6 @@ More broadly, I am interested in producing language technologies that aid in mai
 
 ## Publications
 
-<details>
-  <summary>Click me</summary>
-
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
 **Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ _([poster)](https://virtual2023.aclweb.org/paper_S25.html#poster))_
 <details>
   <summary>Abstract</summary>
