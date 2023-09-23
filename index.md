@@ -34,17 +34,33 @@ Alvero, A., **Pattichis, R.**, (2022). “Linguistic and Cultural Strategies: Id
 ## Final Class Projects
 
 ### UCLA
-  - CS269 - Fairness, Accountability, and Robustness in Natural Language Processing: "Towards the Equivalence Constraint: Evaluating Code-Switching Benchmarks on a Different Perspective" _([repo](https://github.com/rpattichis/cs-269))_
-  - CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repetition Evaluation" _([repo](https://github.com/rpattichis/lyric-generation))_
+CS269 - Fairness, Accountability, and Robustness in Natural Language Processing: "Towards the Equivalence Constraint: Evaluating Code-Switching Benchmarks on a Different Perspective" _([repo](https://github.com/rpattichis/cs-269))_
+<details>
+  <summary>Abstract</summary>
+  Code-switching (CS) is increasingly relevant in the field of NLP with the development of multilingual language models. We evaluate current CS datasets on their multilinguality and switching complexity using previously established metrics, and curate a dataset that aligns with the Equivalence Constraint Theory of CS. Currently, this theory is left out of NLP datasets, although data is crucial in studying it further. We perform manual editing and human validation by native English-Spanish speakers. Ultimately, we find that data are either entirely monolingual, or present a skewed perspective of CS patterns (i.e., single-word switches). These findings hold implications for the future collection of CS datasets for NLP.
+</details>
+
+CS 260 - Machine Learning Algorithms: "Lyric Generation Based on Model Complexity and Repetition Evaluation" _([repo](https://github.com/rpattichis/lyric-generation))_
 
 ### Stanford
-  - CS 224N - NLP with Deep Learning: ["RobustQA Using Data Augmentation"](https://www.semanticscholar.org/paper/RobustQA-Using-Data-Augmentation-Rebecca-Pattichis/8e4d7d60307047b45197c7c434576a0af09516bf)
+CS 224N - NLP with Deep Learning: ["RobustQA Using Data Augmentation"](https://www.semanticscholar.org/paper/RobustQA-Using-Data-Augmentation-Rebecca-Pattichis/8e4d7d60307047b45197c7c434576a0af09516bf)
     <details>
       <summary>Abstract</summary>
       This project aims to explore possible improvements and extensions to the RobustQA Default baseline provided by the CS224N Winter quarter staff. Our goal is to create a domain-agnostic question answering system given DistilBERT as a pre-trained transformer model. The main method attempted in this paper is that of Task Adaptive Fine Tuning (TAPT) [1], which entails a pre-training step utilizing the Masked Language Modeling task. This method was combined with experimentation on hyperparameters (batch size, number of epochs, and learning rate) to produce the highestachieving model. Specifically, a pre-trained MLM model with a batch size of 32 yielded an EM of 42.75 and F1 of 61.14, which are each around 2 points higher than the baseline metrics. 
     </details>
-  -  CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks"
-  -  CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" _([code](https://github.com/rpattichis/CS129_project))_
+
+CS 221 - Artificial Intelligence: Principles and Techniques: "Modeling Platelet Transfusion for The Stanford Blood Center: Inference Using Sentiment Analysis and Recurrent Neural Networks" _([poster](https://stanford-cs221.github.io/autumn2019-extra/posters/129.pdf))_
+<details>
+  <summary>Abstract</summary>
+  Platelets are a blood product that expire within 3 days of arriving to the hospital. The Stanford Hospital system wastes
+about 10% of platelets annually. Researchers previously used aggregated data in order to predict usage, create a three-day ordering strategy, and thus reduce wastage. However, this ordering strategy was not implemented due to lack of human trust in models. New research attempts to address this issue by using patientlevel prediction. This project aims to aid this research by predicting which surgeries will need a platelet transfusion. The two methods used for prediction are stochastic gradient descent on bag-of-words features and Recurrent Neural Networks.
+</details>
+
+CS 129 - Applied Machine Learning: "Music Genre Classification Using MFCCs and Neural Networks" _([code](https://github.com/rpattichis/CS129_project))_
+<details>
+  <summary>Abstract</summary>
+  We approach the music genre classification problem using the GTZAN data-set, which contains 100 30-second song clips for 10 different genres. Our first component of the project revolved around computing the Mel Frequency Cepstral Coefficients (MFCCs) and feeding the result into a variety of classification algorithms: KNN, SVM, and a neural network with fully connected layers (FCNN). We also considered a FCNN classifier based on initial code provided online [5]. We then adopted the FCNN as a baseline model and considered several variations that included: i) reducing the difference between the training and validation errors without sacrificing accuracy, ii) reducing the number of layers to reduce the total number of parameters, and iii) considering a different activation and dropout. Compared to the 47% accuracy achieved by the SVM, we derived reduced FCNN parameter models that gave validation and test accuracy of 61-62%.
+</details>
 
 # Awards and Fellowships
 
