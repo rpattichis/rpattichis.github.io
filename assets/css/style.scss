@@ -24,3 +24,7 @@
     font-size: 1.75rem;
   }
 }
+
+details > summary:first-of-type {
+    display: list-item;
+}
