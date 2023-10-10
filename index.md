@@ -4,7 +4,7 @@ layout: default
 
 <img src="./imgs/HEADSHOT.jpg" alt="Headshot" style="width:300px">
 
-Hello! My name is Rebecca, and I am a second-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on under-resourced languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Cacoullos](https://nmcode-switching.la.psu.edu/work-with-us/) at Penn State. I received my B.S. with Honors at Stanford University, where I wrote my thesis under the advisement of Prof. Christopher Manning.
+Hello! My name is Rebecca, and I am a second-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on under-resourced languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Cacoullos](https://nmcode-switching.la.psu.edu/work-with-us/) at Penn State. I received my B.S. with Honors in Computer Science at Stanford University, where I wrote my thesis under the advisement of Prof. Christopher Manning.
 
 More broadly, I am interested in producing language technologies that aid in maintaing language practices. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
 
@@ -12,7 +12,15 @@ More broadly, I am interested in producing language technologies that aid in mai
 
 ## Publications
 
-**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics._ _([poster)](https://virtual2023.aclweb.org/paper_S25.html#poster))_
+**Pattichis, R.**, LaCasse, D., Trawick, S., & Torres Cacoullos, R. (2023, December). Code-Switching Metrics Using Intonation Units. In _The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)._
+<details>
+  <summary>Abstract</summary>
+
+Code-switching (CS) metrics in NLP that are based on word-level units are misaligned with true bilingual CS behavior. Crucially, CS is not equally likely between any two words, but follows syntactic and prosodic rules. We adapt two metrics, multilinguality and CS probability, and apply them to transcribed bilingual speech, putting forward Intonation Units (IUs) – prosodic speech segments – as basic tokens for NLP tasks. In addition, we calculate these two metrics separately for distinct types of CS: alternating-language multi-word stings and single-word incorporations from one language into another. Results indicate that individual differences according to the two CS metrics are independent, visualized in number and breadth of language bands. However, there is a shared tendency among bilinguals for CS to occur across, rather than within, IU boundaries. That is, bilinguals tend to prosodically separate their two languages. This constraint is blurred when metric calculations do not distinguish multi-word and single-word items. These results call for a reconsideration of units of analysis in future development of CS datasets for NLP tasks.
+</details>
+
+
+**Pattichis, R.**, Trawick, S., LaCasse, D., & Torres Cacoullos, R. (2023, July). [SRW] Aligning Code-Switching Metrics with Bilingual Behavior. In _The 61st Annual Meeting Of The Association For Computational Linguistics (ACL)._ _([poster)](https://virtual2023.aclweb.org/paper_S25.html#poster)_
 <details>
   <summary>Abstract</summary>
 
