@@ -6,7 +6,7 @@ layout: default
 
 Hello! My name is Rebecca, and I am a second-year Computer Science Master's student at UCLA as a DeepMind Fellow. I'm currently doing research in NLP, specifically on under-resourced languages and code-switching datasets with Prof. Peng's [Plus Lab](https://vnpeng.net/), as well as [Prof. Cacoullos](https://nmcode-switching.la.psu.edu/work-with-us/) at Penn State. I received my B.S. with Honors in Computer Science at Stanford University, where I wrote my thesis under the advisement of Prof. Christopher Manning.
 
-More broadly, I am interested in producing language technologies that aid in maintaing language practices. When I am not working, you can find me writing, dancing flamenco, and collecting earrings!
+Broadly, I like producing language technologies that aid in maintaining language practices. Hobbies include writing, dancing flamenco, and collecting earrings!
 
 # Research
 
