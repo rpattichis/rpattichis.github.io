@@ -196,10 +196,12 @@ pre {
   padding-top: 0; }
 
 .float-container {
-    padding-bottom: 2em; }
+    padding-bottom: 2em; 
+  }
 
 .float-child-left {
     width: 45%;
+    padding-right: 2em;
     float: left; } 
 
 .float-child-right {
