@@ -21,6 +21,11 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
+li {
+  display: inline;
+  float: right;
+}
+
 /**
  *  * Set `margin-bottom` to maintain vertical rhythm
  *   */
